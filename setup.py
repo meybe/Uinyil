@@ -48,6 +48,6 @@ setup(
             'requests',
             'curve',
             'rsa',
-		'thrift==0.9.3'
+		'thrift==0.11.0'
         ],
     )
